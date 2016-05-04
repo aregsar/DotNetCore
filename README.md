@@ -1,10 +1,10 @@
-#Openhouse - a sample project skelleton for ASP.NET CORE 1.0 projects
+#Openhouse - a sample project skeleton for ASP.NET CORE 1.0 projects
 
 for installing asp.net core 1.0 rc1 on windows see:
 
 https://docs.asp.net/en/latest/getting-started/installing-on-windows.html
 
-#Instructions for Running asp.net core 1.0 rc1 on OSX
+#Instructions for running asp.net core 1.0 rc1 on OSX
 
 If you like to run the project on a Mac OS here is setup instructions that I used on my machine
 
